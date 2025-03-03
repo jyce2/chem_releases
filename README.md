@@ -1,3 +1,3 @@
 # toxic_releases
 
-## SAS/SQL code for acute, toxic releases in NC
+## Acute, toxic releases in NC using SAS/SQL/PROC GMAP
